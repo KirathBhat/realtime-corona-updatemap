@@ -14,7 +14,3 @@ git clone https://github.com/KirathBhat/realtime-corona-updatemap.git
 ```
 2. Open `index.html` in your browser.
 
-## Author
-- **Kirath Bhat**
-
-
