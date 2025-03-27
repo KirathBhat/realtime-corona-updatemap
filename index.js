@@ -28,7 +28,8 @@ function updateMap(){
     })
 };
 
-maptilersdk.config.apiKey = 'YOUR_API_KEY';
+maptilersdk.config.apiKey = 'Pdsiahi2Kbgky6tCcWyY';
+//Replace the API key with your own (This api key will not work)
 var coordinates = document.getElementById('coordinates');
 var map = new maptilersdk.Map({
     container: 'map',
