@@ -17,6 +17,4 @@ git clone https://github.com/KirathBhat/realtime-corona-updatemap.git
 ## Author
 - **Kirath Bhat**
 
-## License
-This project is licensed under the MIT License.
 
