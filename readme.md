@@ -14,3 +14,5 @@ git clone https://github.com/KirathBhat/realtime-corona-updatemap.git
 ```
 2. Open `index.html` in your browser.
 
+## Webpage of this project
+- [Click Here](https://kirath-coronaupdatemap.netlify.app/)
